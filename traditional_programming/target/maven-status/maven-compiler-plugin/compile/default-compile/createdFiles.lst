@@ -1,0 +1,7 @@
+com\demo\acc\AccountApplication.class
+com\demo\acc\service\AccountService.class
+com\demo\acc\doc\Account.class
+com\demo\acc\repo\AccountRepo.class
+com\demo\acc\controller\AccountController.class
+com\demo\acc\common\Versions.class
+com\demo\acc\common\DataException.class
